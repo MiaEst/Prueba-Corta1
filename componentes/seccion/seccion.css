@@ -2,4 +2,11 @@
     background-color: beige;
     height: 25rem;
     width: 40rem;
+    gap: 10px;
+    display: flex;
+}
+.seccion div {
+    height: 10rem;
+    width: 20rem;
+    border: 1px solid black;
 }
